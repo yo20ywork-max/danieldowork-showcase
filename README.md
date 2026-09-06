@@ -14,9 +14,9 @@ This public repository contains an architecture walkthrough and a runnable sourc
 
 This early recording shows a request to prepare four DanielDoWork social posts, followed by structured content generation, image-generation sessions, and Meta Business Suite editors with post content and scheduling controls.
 
-[![DanielDoWork workflow recording: LINE feedback beside a populated Meta post preview and scheduling controls](assets/danieldowork-workflow-preview.jpg)](assets/danieldowork-workflow-demo-2026-05-18.mp4?raw=true)
+https://github.com/user-attachments/assets/f0642598-20ad-40fc-b62f-b56db977a006
 
-**[Open the full video — 5:54, MP4, 3.7 MB](assets/danieldowork-workflow-demo-2026-05-18.mp4?raw=true)** · [Recording notes and evidence scope](docs/WORKFLOW_DEMO.md)
+**5:54 · MP4 · 3.7 MB** · [Download video](assets/danieldowork-workflow-demo-2026-05-18.mp4?raw=true) · [Recording notes and evidence scope](docs/WORKFLOW_DEMO.md)
 
 | Time | Visible workflow |
 |---|---|
