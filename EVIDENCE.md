@@ -18,3 +18,7 @@ The newly added demonstration inputs are synthetic. See [validation](VALIDATION.
 ## Product relationship
 
 DanielDoWork is my first major software project and largest investment of personal effort and self-funded development. The web application and AI services are two technical components of that same product.
+
+## Architecture walkthrough
+
+The [README](README.md) explains the product concept, request flow, task execution, and component boundaries. The [source review map](SOURCE_REVIEW.md) identifies the fixed implementation snapshots used for that explanation. This additional documentation does not expand the scope of the executable validation recorded above.
