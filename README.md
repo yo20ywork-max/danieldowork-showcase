@@ -8,6 +8,27 @@ DanielDoWork turns ordinary-language requests into structured, trackable work. I
 
 This public repository contains an architecture walkthrough and a runnable source excerpt. The operational application remains private. The description below follows selected implementation paths in fixed source snapshots; it does not establish that every path is enabled on the public website.
 
+## Recorded workflow demo
+
+**LINE request → browser AI content generation → Meta post preparation → human review**
+
+This early recording shows a request to prepare four DanielDoWork social posts, followed by structured content generation, image-generation sessions, and Meta Business Suite editors with post content and scheduling controls.
+
+[![DanielDoWork workflow recording: LINE feedback beside a populated Meta post preview and scheduling controls](assets/danieldowork-workflow-preview.jpg)](assets/danieldowork-workflow-demo-2026-05-18.mp4?raw=true)
+
+**[Open the full video — 5:54, MP4, 3.7 MB](assets/danieldowork-workflow-demo-2026-05-18.mp4?raw=true)** · [Recording notes and evidence scope](docs/WORKFLOW_DEMO.md)
+
+| Time | Visible workflow |
+|---|---|
+| 00:00–01:40 | A LINE request is followed by a ChatGPT response containing structured post content |
+| Around 03:00 | Separate image-generation windows are open; LINE reports four queued image tasks |
+| Around 04:20 | Meta Business Suite post editors open |
+| 05:20–05:54 | Captions, image previews, date/time controls, and LINE review messages are visible |
+
+**Outcome shown:** post preparation for review. The LINE messages explicitly state that the final publish/schedule action has not been pressed. This is a historical demonstration of one workflow, dated 18 May 2026; it does not establish current deployment status or general task success rates.
+
+The public video preserves the recording's sequence and elapsed time. Browser address bars and the desktop taskbar were cropped out, and the video was compressed for easier viewing.
+
 ## 1. Core idea: web conversations that drive executable tasks
 
 My central idea is to describe OpenClaw's execution capabilities in natural language, let a conversational AI interpret an ordinary user request against those capabilities, and convert the response into structured work that a runtime can schedule and execute.

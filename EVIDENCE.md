@@ -22,3 +22,9 @@ DanielDoWork is my first major software project and largest investment of person
 ## Architecture walkthrough
 
 The [README](README.md) explains the product concept, request flow, task execution, and component boundaries. The [source review map](SOURCE_REVIEW.md) identifies the fixed implementation snapshots used for that explanation. This additional documentation does not expand the scope of the executable validation recorded above.
+
+## Recorded workflow demonstration
+
+A [5:54 screen recording](docs/WORKFLOW_DEMO.md), dated 18 May 2026, shows a LINE request followed by browser AI output, image-generation windows, and Meta post material prepared for human review. The [README preview](README.md#recorded-workflow-demo) links to the public video.
+
+This historical UI evidence is separate from the classifier validation above. The recording ends before confirmed final publication or scheduling and does not establish the current deployment version.
